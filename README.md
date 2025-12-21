@@ -55,9 +55,7 @@
 <h2 align="center">GitHub Analytics 📊</h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ParthivSarkar21&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthivSarkar21&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <br>
