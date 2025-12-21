@@ -1,19 +1,87 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There!!"/>
-</p>
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There!&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=000000" width="100%" />
 
-<h3 align="center">A passionate Ai/ml and web developer from India &#127470;&#127475</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=I'm+Parthiv+Sarkar;AI%2FML+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ParthivSarkar21&label=Profile%20views&color=0e75b6&style=flat" alt="ParthivSarkar21" /> </p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ParthivSarkar21&label=Profile%20views&color=0e75b6&style=flat" alt="ParthivSarkar21" />
+  </p>
 </div>
 
+<br>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="60%" align="left" valign="center" style="border: none;">
+        <h2>About Me ⚡</h2>
+        <p>Hi! I am a passionate developer from India 🇮🇳 specializing in AI, Computer Vision, and Full Stack Web Development.</p>
+        <br>
+        
+- 🔭 I’m currently working on **Computer Vision & NLP Projects**
+- 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
+- 💬 Ask me about **Python, React, OpenCV, and System Design**
+- 📫 Reach me at: **parthivsarkar21@gmail.com** (Replace with actual email)
+- ⚡ Fun fact: **I love solving complex problems with simple code.**
+
+<br>
+        
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://parthivsarkar21.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio" /></a>
+</p>
+      </td>
+      <td width="40%" align="center" style="border: none;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,redis,postgres,mongodb,mysql,dynamodb,prisma,git,github,gitlab,githubactions,py,java,cpp,js,ts,nodejs,express,nextjs,react,redux,tailwind,html,css,materialui,pug,postman,fastapi,flask,django,graphql,opencv,sklearn,threejs,notion,vscode,androidstudio,kafka,regex&perline=14" />
   </a>
+</p>
+
+<br>
+
+<h2 align="center">GitHub Analytics 📊</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ParthivSarkar21&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthivSarkar21&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ParthivSarkar21" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthivSarkar21&theme=radical&hide_border=true" alt="ParthivSarkar21" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthivSarkar21&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ParthivSarkar21" />
+</div>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Collaborate!&fontSize=20&fontAlignY=40" width="100%"/>
 </p>
