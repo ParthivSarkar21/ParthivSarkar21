@@ -81,5 +81,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Collaborate!&fontSize=20&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Collaborate!&fontSize=20&fontAlignY=40&stroke=000000" width="100%"/>
 </p>
