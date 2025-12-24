@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
 - 💬 Ask me about **Python, React, OpenCV, and System Design**
 - 📫 Reach me at: **parthivsarkar21@gmail.com** (Replace with actual email)
-- ⚡ Fun fact: **I love solving complex problems with simple code.**
+- ⚡ Fun fact: **I love solving complex problems with simple code.** 
 
 <br>
         
