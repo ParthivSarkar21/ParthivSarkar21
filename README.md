@@ -60,24 +60,6 @@
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthivSarkar21&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ParthivSarkar21" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthivSarkar21&theme=radical&hide_border=true" alt="ParthivSarkar21" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthivSarkar21&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ParthivSarkar21" />
-</div>
-
-<br>
 <br>
 
 <p align="center">
