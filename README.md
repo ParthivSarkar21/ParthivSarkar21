@@ -59,6 +59,9 @@
 </div>
 
 <br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthivSarkar21&theme=default" alt="GitHub Stats" />
+</p>
 
 <br>
 
