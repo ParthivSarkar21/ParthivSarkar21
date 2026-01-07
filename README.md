@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on **Computer Vision & NLP Projects**
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
 - 💬 Ask me about **Python, React, OpenCV, and System Design**
-- 📫 Reach me at: **parthivsarkar21@gmail.com** (Replace with actual email)
+- 📫 Reach me at: **parthivsarkar21@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems with simple code.** 
 
 <br>
